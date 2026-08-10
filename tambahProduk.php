@@ -62,7 +62,7 @@ if (isset($_POST['simpan_produk'])) {
         <div class="col-md-8">
             <div class="card border-0 shadow-sm">
                 <div class="card-header bg-dark text-white py-3">
-                    <h5 class="fw-bold mb-0">📦 Tambah Produk B2B Baru</h5>
+                    <h5 class="fw-bold mb-0 text-white">📦 Tambah Produk B2B Baru</h5>
                 </div>
                 <div class="card-body p-4 bg-light">
                     

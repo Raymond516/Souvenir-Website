@@ -44,7 +44,7 @@ $result_orders = mysqli_query($conn, $query_orders);
 <div class="container mt-4 mb-5" style="min-height: 60vh;">
     
     <div class="p-4 mb-4 bg-dark text-white rounded shadow-sm border-start border-4 border-warning">
-        <h3 class="fw-bold mb-1">⚙️ Dashboard Admin (Pusat Kendali)</h3>
+        <h3 class="fw-bold mb-1 text-white">⚙️ Dashboard Admin (Pusat Kendali)</h3>
         <p class="text-light mb-0">Kelola semua negosiasi B2B dan persetujuan harga khusus di sini.</p>
     </div>
 
