@@ -28,10 +28,6 @@ If you want to run this project on your local machine, please follow these steps
 
 1. Set Up Your Environment: Make sure your computer has a local web server application installed, such as **XAMPP**, **Laragon**, or a similar program.
 2. Make sure you have imported the SQL database in the Database folder > responsive_web_promosi.sql
-3. Clone the Repository:
-   Open Terminal or Git Bash, then run the following command:
-   ```bash
-   git clone [https://github.com/Raymond516/Souvenir-Website.git](https://github.com/Raymond516/Souvenir-Website.git)
 
 ---
 
